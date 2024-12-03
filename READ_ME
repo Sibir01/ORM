@@ -1,0 +1,11 @@
+Minimal ORM in Python
+This project demonstrates the implementation of a minimalist Object-Relational Mapping (ORM) system in Python.
+ORM allows developers to interact with databases using Python objects, eliminating the need to write raw SQL queries.
+
+Overview
+This project includes:
+
+Model definitions via Python classes (e.g., User).
+Automatic table creation in an SQLite database.
+Saving objects to the database.
+Retrieving all records from the database.
